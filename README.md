@@ -31,12 +31,35 @@
 ![React](https://img.shields.io/badge/React-09D3AC?style=for-the-badge&logo=react&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 
-### 🛠️ 开发工具
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Ideal](https://img.shields.io/badge/IntellijIdea-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+### ☁️ 平台 && 框架
+![Springboot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![K8S](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/amazonwebservices-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+
+### 🛠️ 开发工具
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Maven](https://img.shields.io/badge/maven-7FB100?style=for-the-badge&logo=apachemaven&logoColor=white)
+
+### 💽 存储与数据库
+
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white)
+![Mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Mongodb](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Hive](https://img.shields.io/badge/hive-FF7A00?style=for-the-badge&logo=hive&logoColor=white)
+![Rabbitmq](https://img.shields.io/badge/rabbitmq-FF81F9?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+### 👁️ 服务运维
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![kibana](https://img.shields.io/badge/kibana-00DBDE?style=for-the-badge&logo=kibana&logoColor=white)
+
 
 ## 📊 GitHub 统计 | Statistics
 
