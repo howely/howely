@@ -45,8 +45,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=howely&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
-## 🌐 社交媒体 | Social Media
-
 
 ## 📈 贡献时间线 | Contribution Timeline
 ![](https://github-readme-activity-graph.vercel.app/graph?username=howely&theme=dracula)
