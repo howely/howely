@@ -17,9 +17,9 @@
 
 > "less is more"
 
-- 🔭 毕业于武汉大学计算机学院软件工程专业，硕士学历
+- 🔭 毕业于武汉大学计算机学院，软件工程专业，硕士学历
 - 🚀 十年以上工作经验，曾工作于CETC，途牛，小米等公司
-- 🌱 目前于BMW在中国的合资公司从事车机后端工作
+- 🌱 目前于BMW在中国的合资公司从事车机后端开发
 
 ## 💻 技术栈 | Tech Stack
 
@@ -29,7 +29,7 @@
 ![Go](https://img.shields.io/badge/Go-3776FF?style=for-the-badge&logo=go&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue-4567CF?style=for-the-badge&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-09D3AC?style=for-the-badge&logo=react&logoColor=white)
-![Scala](https://img.shields.io/badge/Scale-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 
 ### 🛠️ 开发工具
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
