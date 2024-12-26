@@ -38,12 +38,17 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![K8S](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/amazonwebservices-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-FFDA18?style=for-the-badge&logo=terraform&logoColor=white)
 
-### 🛠️ 开发工具
+
+### 🛠️ 开发工具 && 运维
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Maven](https://img.shields.io/badge/maven-7FB100?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![kibana](https://img.shields.io/badge/kibana-00DBDE?style=for-the-badge&logo=kibana&logoColor=white)
 
 ### 💽 存储与数据库
 
@@ -54,11 +59,6 @@
 ![Mongodb](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Hive](https://img.shields.io/badge/hive-FF7A00?style=for-the-badge&logo=hive&logoColor=white)
 ![Rabbitmq](https://img.shields.io/badge/rabbitmq-FF81F9?style=for-the-badge&logo=rabbitmq&logoColor=white)
-
-### 👁️ 服务运维
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![kibana](https://img.shields.io/badge/kibana-00DBDE?style=for-the-badge&logo=kibana&logoColor=white)
 
 
 ## 📊 GitHub 统计 | Statistics
