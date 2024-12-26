@@ -45,6 +45,7 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Github Actions](https://img.shields.io/badge/githubactions-000000?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Maven](https://img.shields.io/badge/maven-7FB100?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
